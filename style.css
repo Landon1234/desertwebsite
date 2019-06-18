@@ -1,0 +1,34 @@
+/* CSS Starter template from thimble.mozilla.org */
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+
+body{
+  /* background-image: url("HomePage.jpg"); */
+  background-repeat: no-repeat;
+  background-size:100%;
+  font-family: "Open Sans";
+  padding: 10px 30px;
+  font-size: 18px;
+  margin: 0;
+  /* color: white;  */
+}
+
+h1 {
+  font-family: "Merriweather", serif;
+  font-size: 50px;
+  color: brown; 
+}
+
+h2{
+  font-family:"Merriweather", serif;
+  font-size: 50px;
+}
+
+table, th,td,tr{
+  border: 1px solid rgb(12, 12, 12);
+}
+
+th{color: greenyellow; 
+
+}
